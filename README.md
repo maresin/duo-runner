@@ -16,6 +16,13 @@
 2. **DuoHacker** provides exercise solving and XP earning capabilities
 3. The scripts are **separate programs** with different functions
 
+### Demo
+Watch DuoRunner in action:
+
+<img src="./screenshots/demo.gif" alt="DuoRunner executing a Duolingo lesson" width="90%" style="border-radius: 8px;">
+
+> *GIF shows: Launching the menu → Selecting a lesson → Automatic completion of exercises.*
+
 ### Important Notes:
 - Use **at your own risk** and discretion
 - **Not affiliated with** or endorsed by Duolingo
